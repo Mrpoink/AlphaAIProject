@@ -6,12 +6,12 @@ This particular application of Gemini was designed to be ran in the Linux termin
 It was created to be a tool that can be used almost instantaneously to do anything Gemini can do but in a more customizable way so users can do anything they want with it within the parameters Google
 has given us. 
 
-Installation - https://ai.google.dev/gemini-api/docs/quickstart (Google's Python Quickstart Guide)/n
+Installation - https://ai.google.dev/gemini-api/docs/quickstart (Google's Python Quickstart Guide)   
 ***(I will try to make a bash file to install all this stuff)***
 
 Create API Key from Google (use google's website stuff)
 
-sudo apt install python3-pip
+sudo apt install python3-pip  
 sudo apt install python3-ven
 
 pip install -U google-generativeai
