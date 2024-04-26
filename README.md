@@ -7,6 +7,14 @@ It was created to be a tool that can be used almost instantaneously to do anythi
 has given us. 
 
 Installation - https://ai.google.dev/gemini-api/docs/quickstart (Google's Python Quickstart Guide)
+***(I will try to make a bash file to install all this stuff)***
+
 Create API Key from Google (use google's website stuff)
 
+sudo apt install python3-pip
+sudo apt install ptyhon3-ven
+
 pip install -U google-generativeai
+
+***(If you cannot get AlphaAI to work on your machine then you might need to make a venv and build the packages and dependencies yourself and copy over the python files I've created)***
+
