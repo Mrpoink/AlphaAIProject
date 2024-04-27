@@ -1,6 +1,6 @@
 # AlphaAIProject
 This an AI project built off Google's Gemini Generative Language Model
-THIS MODEL CANNOT RUN ON x32 CPUS, TRUST ME I TRIED
+***THIS MODEL CANNOT RUN ON x32 CPUS, TRUST ME I TRIED***
 Please keep in mind this is NOT a comprehensive guide to installation or usage, although I will provide links to guides I follow, and so can you if you wish to build this project for yourself.
 This particular application of Gemini was designed to be ran in the Linux terminal via a python virtual environment. 
 It was created to be a tool that can be used almost instantaneously to do anything Gemini can do but in a more customizable way so users can do anything they want with it within the parameters Google
