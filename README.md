@@ -14,7 +14,7 @@ Installation - https://ai.google.dev/gemini-api/docs/quickstart (Google's Python
 Create API Key from Google (https://ai.google.dev/gemini-api/docs/quickstart#set-up-api-key)
 
 sudo apt install python3-pip  
-sudo apt install python3-ven
+sudo apt install python3-venv
 
 pip install -U google-generativeai
 
